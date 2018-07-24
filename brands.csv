@@ -1,0 +1,584 @@
+1,Shantam Gulati,shantam-gulati,0,NULL
+2,Anshul Bhatia,anshul-bhatia,0,NULL
+3,Apple,apple,1,2
+4,Whyte & Mackay,whyte-mackay,1,3
+5,Fossil,fossil,1,4
+6,Tag Heuer,tag-heuer,1,5
+7,Glenfiddich,glenfiddich,1,6
+8,Bose,bose,1,7
+9,Kiehls,kiehls,1,8
+10,Toblerone,toblerone,1,9
+11,Swarovski,swarovski,1,10
+12,Hugo Boss,hugo-boss,1,11
+13,Cabeau,cabeau,1,12
+14,Furla,furla,1,13
+15,Desigual,desigual,1,14
+16,Diesel,diesel,1,15
+17,Versace,versace,1,16
+18,Gucci,gucci,1,17
+19,Jimmy Choo,jimmy-choo,1,18
+20,Moshi,moshi,1,19
+21,Thule,thule,1,20
+22,Tous,tous,1,21
+23,Thomas Sabo,thomas-sabo,1,22
+24,Cerruti 1881,cerruti-1881,1,23
+25,Hero,hero,1,24
+26,Danzka,danzka,1,48
+27,ChloÃ©,chlo,1,23
+28,Alexandre J,alexandre-j,1,26
+29,Cartier,cartier,1,27
+30,Kinder,kinder,1,28
+31,Lindt,lindt,1,29
+32,Marabou,marabou,1,30
+33,Ferrero SpA,ferrero-spa,1,31
+34,Mars,mars,1,32
+35,Storck,storck,1,33
+36,Nestle,nestle,1,34
+37,Milka,milka,1,35
+38,Chiko,chiko,1,36
+39,Clinique,clinique,1,36
+40,KitKat,kitkat,0,NULL
+41,Revlon,revlon,1,41
+42,Toblerone Golden Mini Bag 1kg,toblerone-golden-mini-bag-1kg,0,NULL
+43,Cadbury,cadbury,1,42
+44,Givenchy,givenchy,1,3
+45,LancÃ´me,lancme,1,43
+46,Yves Saint Laurent,yves-saint-laurent,1,44
+47,EstÃ©e Lauder,este-lauder,1,45
+48,Clarins,clarins,1,46
+49,Esprit,esprit,1,47
+50,Danzka,danzka,1,48
+51,GoPro,gopro,1,49
+52,Others,others,1,51
+53,WatchUp,watchup,1,50
+54,Gant,gant,1,52
+55,Dyson,dyson,1,53
+56,Gassan ,gassan,1,54
+57,Jil Sander,jil-sander,1,55
+58,Ouwehand,ouwehand,1,56
+59,Azzaro,azzaro,1,57
+60,Calvin Klein,calvin-klein,1,58
+61,DKNY,dkny,1,59
+62,Davidoff,davidoff,1,60
+63,Samsung,samsung,1,61
+64,Karl Lagerfeld,karl-lagerfeld,1,62
+65,Licor,licor,1,63
+66,Dalmore,dalmore,1,167
+67,Jura,jura,1,183
+68,Glengoyne,glengoyne,1,175
+69,Macallan,macallan,1,188
+70,Glen Elgin,glen-elgin,1,174
+71,Glenkinchie,glenkinchie,1,176
+72,Johnnie Walker,johnnie-walker,1,181
+73,Ballentine's,ballentines,0,NULL
+74,Ballentine's,ballentines,1,149
+75,Royal Salute,royal-salute,1,204
+76,Chivas Regal,chivas-regal,1,161
+77,King Robert II,king-robert-ii,1,184
+78,Whyte & Mackay,whyte-mackay,0,NULL
+79,Passport Scotch,passport-scotch,1,198
+80,Black & White,black-white,1,151
+81,William Grants,william-grants,1,214
+82,Tullamore Dew,tullamore-dew,1,212
+83,Jameson,jameson,1,179
+84,Midleton,midleton,1,191
+85,Vat 69,vat-69,1,213
+86,Clan MacGregor,clan-macgregor,1,164
+87,Teachers,teachers,1,209
+88,Canadian Club,canadian-club,1,156
+89,Dewar's,dewars,1,168
+90,Maker's Mark,makers-mark,1,189
+91,Clynelish,clynelish,1,165
+92,Talisker,talisker,1,208
+93,MoÃ«t & Chandon,mot-chandon,1,193
+94,Mumm,mumm,1,195
+95,Yellow Tail,yellow-tail,1,216
+96,Joseph Drouhin,joseph-drouhin,1,182
+97,Fuzion,fuzion,1,173
+98,Dourthe No.1,dourthe-no1,1,171
+99,Torres,torres,1,211
+100,Chenin Blanc,chenin-blanc,1,160
+101,Rhinofields,rhinofields,1,201
+102,Pascal Jolivet,pascal-jolivet,1,197
+103,Chablis,chablis,1,159
+104,Mouton Cadet,mouton-cadet,1,194
+105,Carrera,carrera,1,158
+106,Philips,philips,1,199
+107,Glenlivet,glenlivet,1,177
+108,Samsonite,samsonite,1,205
+109,Sony,sony,1,207
+110,Bouchard,bouchard,1,152
+111,Masi,masi,1,190
+112,Neuhaus,neuhaus,1,196
+113,M&M's,mms,1,NULL
+114,M&M's,mms,1,187
+115,D&G,dg,1,166
+116,DJI,dji,1,169
+117,JBL,jbl,1,180
+118,Loreal,loreal,1,186
+119,Zacapa Rum,zacapa-rum,1,217
+120,Xoopar,xoopar,1,215
+121,Biotherm,biotherm,1,150
+122,Arma,arma,1,148
+123,Braun,braun,1,153
+124,Dreamgear,dreamgear,1,172
+125,Seawag,seawag,1,NULL
+126,Seawag,seawag,1,206
+127,Antonio Banderas,antonio-banderas,1,147
+128,Rossini,rossini,1,NULL
+129,Rossini,rossini,1,203
+130,Lacoste,lacoste,1,185
+131,Roka,roka,1,NULL
+132,Roka,roka,1,202
+133,POM,pom,1,NULL
+134,POM,pom,1,200
+135,Gouda's,goudas,1,178
+136,Tissot,tissot,1,210
+137,Miffy,miffy,1,192
+138,Bvlgari,bvlgari,1,154
+139,Cacharel,cacharel,1,155
+140,Carolina Herrera,carolina-herrera,1,157
+141,Christian Dior,christian-dior,1,162
+142,Christian Lacroix,christian-lacroix,1,163
+143,Dolce & Gabbana,dolce-gabbana,1,170
+144,After Eight,after-eight,1,218
+145,Chupa Chups,chupa-chups,1,219
+146,Ghirardelli,ghirardelli,1,220
+147,Godiva ,godiva,1,221
+148,Guylian,guylian,1,222
+149,Hawaiian Host ,hawaiian-host,1,223
+150,Hershey's,hersheys,1,224
+151,Jelly Belly ,jelly-belly,1,225
+152,Mentos,mentos,1,226
+153,See's Candies,sees-candies,1,227
+154,Sweet Journey,sweet-journey,1,228
+155,La Prairie,la-prairie,1,229
+156,Kipling ,kipling,1,230
+157,Buckley London ,buckley-london,1,231
+158,L'Occitane,loccitane,1,232
+159,Shiseido,shiseido,1,NULL
+160,Lancome,lancome,1,NULL
+161,Sisley,sisley,1,NULL
+162,Sulwhasoo,sulwhasoo,1,NULL
+163,Benefit,benefit,1,NULL
+164,Guerlain,guerlain,1,NULL
+165,L'Oreal,loreal,1,NULL
+166,Elizabeth Arden,elizabeth-arden,1,NULL
+167,Estee Lauder,estee-lauder,1,NULL
+168,Benefit Boiing,benefit-boiing,1,NULL
+169,NARS,nars,1,NULL
+170,Bobbi Brown,bobbi-brown,1,NULL
+171,Kiehl'S,kiehls,1,NULL
+172,YSL,ysl,1,NULL
+173,La Praire,la-praire,1,NULL
+174,Canon,canon,1,NULL
+175,Ihealth,ihealth,1,NULL
+176,Beats,beats,1,NULL
+177,Sennheiser,sennheiser,1,NULL
+178,Foreo,foreo,1,999
+179,Foreo Luna,foreo-luna,1,NULL
+180,Moser,moser,1,NULL
+181,Bowers & Wilkins,bowers-wilkins,1,NULL
+182,Panasonic,panasonic,1,NULL
+183,Jabra,jabra,1,NULL
+184,Jarre,jarre,1,NULL
+185,Monster,monster,1,NULL
+186,Sennheiser,sennheiser,1,NULL
+187,Skullcandy,skullcandy,1,NULL
+188,Jacob's Creek,jacobs-creek,1,NULL
+189,Hennessy,hennessy,1,NULL
+190,Smirnoff,smirnoff,1,NULL
+191,Stolichnaya,stolichnaya,1,NULL
+192,Martini,martini,1,NULL
+193,Nikon,nikon,1,NULL
+194,Cinzano,cinzano,1,NULL
+195,Al Nassma,al-nassma,1,NULL
+196,Rado,rado,1,NULL
+197,Hersheys,hersheys,1,NULL
+198,Omega,omega,1,NULL
+199,Rado,rado,1,NULL
+200,LINDT,lindt,1,NULL
+201,TAG Heuer,tag-heuer,1,NULL
+202,Aigner,aigner,1,NULL
+203,Baume & Mercier,baume-mercier,1,NULL
+204,Casio,casio,1,NULL
+205,Kiehl's,kiehls,1,NULL
+206,L'oreal,loreal,1,NULL
+207,Urban Decay,urban-decay,1,NULL
+208,Fujifilm,fujifilm,1,NULL
+209,Jack Daniel's,jack-daniels,1,NULL
+210,Absolut,absolut,1,NULL
+211,Tommy Hilfiger,tommy-hilfiger,1,NULL
+212,Guess,guess,1,NULL
+213,Crislu,crislu,1,NULL
+214,Bateel,bateel,1,NULL
+215,Go Travel,go-travel,1,NULL
+216,American Tourister,american-tourister,1,NULL
+217,Montblanc,montblanc,1,NULL
+218,Silhouette,silhouette,1,NULL
+219,Diptyque,diptyque,1,NULL
+220,Roberto Cavalli,roberto-cavalli,1,NULL
+221,Viktor & Rolf,viktor-rolf,1,NULL
+222,Ralph Lauren Polo,ralph-lauren-polo,1,NULL
+223,Alexander McQueen,alexander-mcqueen,1,NULL
+224,Nina Ricci,nina-ricci,1,NULL
+225,Thierry Mugler,thierry-mugler,1,NULL
+226,Juicy Couture,juicy-couture,1,NULL
+227,Moschino,moschino,1,NULL
+228,Burberry,burberry,1,NULL
+229,Diptyque,diptyque,1,NULL
+230,Michael Kors,michael-kors,1,NULL
+231,Michael Kors,michael-kors,1,NULL
+232,Viktor&Rolf,viktorrolf,1,NULL
+233,Valeur Absolue,valeur-absolue,1,NULL
+234,Trussardi,trussardi,1,NULL
+235,Tiffany,tiffany,1,NULL
+236,Thierry Mugler,thierry-mugler,1,NULL
+237,Stella Mc Cartney,stella-mc-cartney,1,NULL
+238,Salvatore Ferragamo,salvatore-ferragamo,1,NULL
+239,Prada,prada,1,NULL
+240,Scuderia Ferrari,scuderia-ferrari,1,NULL
+241,Seiko,seiko,1,NULL
+242,Sekonda,sekonda,1,NULL
+243,Skagen,skagen,1,NULL
+244,Swiss Military,swiss-military,1,NULL
+245,Dubai Duty Free,dubai-duty-free,1,NULL
+246,Boss,boss,1,NULL
+247,Ralph Lauren,ralph-lauren,1,NULL
+248,Kenzo,kenzo,1,NULL
+249,Acqua Di Parma,acqua-di-parma,1,NULL
+250,Al Haramain,al-haramain,1,NULL
+251,Amouage,amouage,1,NULL
+252,Atelier Cologne,atelier-cologne,1,NULL
+253,Clive Christian,clive-christian,1,NULL
+254,DUNHILL,dunhill,1,NULL
+255,Ferrari Scuderia,ferrari-scuderia,1,NULL
+256,John Varvatos,john-varvatos,1,NULL
+257,Kenzo,kenzo,1,NULL
+258,Loewe,loewe,1,NULL
+259,Maison Margiella,maison-margiella,1,NULL
+260,Maison Francis,maison-francis,1,NULL
+261,Narciso Rodriguez,narciso-rodriguez,1,NULL
+262,Paco Rabanne,paco-rabanne,1,NULL
+263,Penhaligon's,penhaligons,1,NULL
+264,Jose Cuervo,jose-cuervo,1,NULL
+265,Longines,longines,1,NULL
+266,Chopard,chopard,1,NULL
+267,Citizen,citizen,1,NULL
+268,Frederique Constant,frederique-constant,1,NULL
+269,Suunto,suunto,1,NULL
+270,Police,police,1,NULL
+271,Hugo,hugo,1,NULL
+272,Creed,creed,1,NULL
+273,Bacardi,bacardi,1,NULL
+274,Mount Gay,mount-gay,1,NULL
+275,Jagermeister,jagermeister,1,NULL
+276,Metaxa,metaxa,1,NULL
+277,Don Julio,don-julio,1,NULL
+278,Ferrero Rocher,ferrero-rocher,1,NULL
+279,Butlers,butlers,1,NULL
+280,Marc Jacobs,marc-jacobs,1,NULL
+281,Bottega Veneta,bottega-veneta,1,NULL
+282,Coach,coach,1,NULL
+283,M. Micallef,m-micallef,1,NULL
+284,Penhaligons,penhaligons,1,NULL
+285,Parfums de Marly,parfums-de-marly,1,NULL
+286,Baileys,baileys,1,NULL
+287,Herradura,herradura,1,NULL
+288,William L. 1985,william-l-1985,1,NULL
+289,Akaru,akaru,1,NULL
+290,Chloe,chloe,1,NULL
+291,Ajmal,ajmal,1,NULL
+292,Anfas Alkhaleej,anfas-alkhaleej,1,NULL
+293,Issey Miyake,issey-miyake,1,NULL
+294,Valentino,valentino,1,NULL
+295,Missoni ,missoni,1,NULL
+296,Lanvin,lanvin,1,NULL
+297,Jean Paul Gaultier ,jean-paul-gaultier,1,NULL
+298,Issey Miyake,issey-miyake,1,NULL
+299,Elie Saab,elie-saab,1,NULL
+300,Dunhill ,dunhill,1,NULL
+301,Alaia ,alaia,1,NULL
+302,24,24,1,NULL
+303,Carven ,carven,1,NULL
+304,Ermenegildo Zegna ,ermenegildo-zegna,1,NULL
+305,Meliora,meliora,1,NULL
+306,Escada,escada,1,NULL
+307,Darcy,darcy,1,NULL
+308,Montale,montale,1,NULL
+309,Lalique ,lalique,1,NULL
+310,Kilian,kilian,1,NULL
+311,Salvatore Ferragamo,salvatore-ferragamo,1,NULL
+312,Narciso Rodriguez,narciso-rodriguez,1,NULL
+313,Miu Miu,miu-miu,1,NULL
+314,Galloway,galloway,1,NULL
+315,Sedbury,sedbury,1,NULL
+316,Aramis,aramis,1,NULL
+317,Desert Design ,desert-design,1,NULL
+318,Cross ,cross,1,NULL
+319,Montegrappa ,montegrappa,1,NULL
+320,Jump,jump,1,NULL
+321,Tumi,tumi,1,NULL
+322,Gourmet House ,gourmet-house,1,NULL
+323,Wonderful,wonderful,1,NULL
+324,Gourmet House ,gourmet-house,1,NULL
+325,Puranmal ,puranmal,1,NULL
+326,Dellisse ,dellisse,1,NULL
+327,Nadiya,nadiya,1,999
+328,Chocodate ,chocodate,1,NULL
+329,Seilko,seilko,1,NULL
+330,IWC,iwc,1,NULL
+331,Gc,gc,1,NULL
+332,Patchi ,patchi,1,NULL
+333,Golden Dhow,golden-dhow,1,NULL
+334,Celebrations,celebrations,1,NULL
+335,Daim Minis,daim-minis,1,NULL
+336,Maltesers,maltesers,1,NULL
+337,Ice Watch ,ice-watch,1,NULL
+338,Tessay,tessay,1,NULL
+339,Crispo,crispo,1,NULL
+340,Crispo,crispo,1,NULL
+341,Anthon Berg,anthon-berg,1,NULL
+342,Goldkenn,goldkenn,1,NULL
+343,Daim,daim,1,NULL
+344,Thorntons ,thorntons,1,NULL
+345,Pimm's,pimms,1,NULL
+346,Dubonnet,dubonnet,1,NULL
+347,Pernod ,pernod,1,NULL
+348,Ricard,ricard,1,NULL
+349,Campari ,campari,1,NULL
+350,Gonzalez Byass,gonzalez-byass,1,NULL
+351,Warre's ,warres,1,NULL
+352,Harveys ,harveys,1,NULL
+353,Taylor's ,taylors,1,NULL
+354,Cockburns,cockburns,1,NULL
+355,1800,1800,1,NULL
+356,El Jimador,el-jimador,1,NULL
+357,Sauza,sauza,1,NULL
+358,Corralejo Tequila,corralejo-tequila,1,NULL
+359,Sierra Tequila ,sierra-tequila,1,NULL
+360,Sierra Tequila ,sierra-tequila,1,NULL
+361,Bottega ,bottega,1,NULL
+362,Codorniu ,codorniu,1,NULL
+363,Tanqueray ,tanqueray,1,NULL
+364,Beefeater ,beefeater,1,NULL
+365,Gabriel Boudier Dijon,gabriel-boudier-dijon,1,NULL
+366,Bombay Sapphire,bombay-sapphire,1,NULL
+367,Hendricks Gin ,hendricks-gin,1,NULL
+368,Gordon's ,gordons,1,NULL
+369,Bardinet ,bardinet,1,NULL
+370,Beehive ,beehive,1,NULL
+371,Fundador ,fundador,1,NULL
+372,Marie Brizard,marie-brizard,1,NULL
+373,Glayva,glayva,1,NULL
+374,MidoriÂ ,midori,1,NULL
+375,Archers ,archers,1,NULL
+376,Drambuie ,drambuie,1,NULL
+377,Alize ,alize,1,NULL
+378,BÃ©nÃ©dictine ,bndictine,1,NULL
+379,BÃ©nÃ©dictine ,bndictine,1,NULL
+380,LA MER,la-mer,1,NULL
+381,Origins,origins,1,NULL
+382,O.P.I,opi,1,NULL
+383,O.P.I,opi,1,NULL
+384,OPI,opi,1,NULL
+385,HERMES,hermes,1,NULL
+386,CLE DE PEAU,cle-de-peau,1,NULL
+387,SHU UEMURA,shu-uemura,1,NULL
+388,AVEDA,aveda,1,NULL
+389,KERASTASE,kerastase,1,NULL
+390,YUNGO,yungo,1,NULL
+391,HIMALAYA,himalaya,1,NULL
+392,Lâ€™ORÃ‰AL,loral,1,NULL
+393,TP LINK,tp-link,1,NULL
+394,THOMSON,thomson,1,NULL
+395,LOGITECH,logitech,1,NULL
+396,OREGON,oregon,1,NULL
+397,OLYMPUS,olympus,1,NULL
+398,MOBILEGEAR,mobilegear,1,NULL
+399,ESTÃ‰E,este,1,NULL
+400,PAZZION,pazzion,1,NULL
+401,TRACKR,trackr,1,NULL
+402,CLARISONIC,clarisonic,1,NULL
+403,FITBIT,fitbit,1,NULL
+404,BELLROY,bellroy,1,NULL
+405,RAY-BAN,ray-ban,1,NULL
+406,OAKLEY,oakley,1,NULL
+407,LUVENUS,luvenus,1,NULL
+408,PANDORA,pandora,1,NULL
+409,CHOMEL,chomel,1,NULL
+410,Bee Cheng Hiang,bee-cheng-hiang,1,NULL
+411,KIT KAT,kit-kat,1,NULL
+412,TWIX,twix,1,NULL
+413,GNC,gnc,1,NULL
+414,MERLION,merlion,1,NULL
+415,Tiger Balm,tiger-balm,1,NULL
+416,OSIM,osim,1,NULL
+417,FEI FAH,fei-fah,1,NULL
+418,PANADOL,panadol,1,NULL
+419,DUREX,durex,1,NULL
+420,Eu Yan Sang,eu-yan-sang,1,NULL
+421,STEPHEN JOSEPH,stephen-joseph,1,NULL
+422,BATH & BODY WORKS,bath-body-works,1,NULL
+423,WOODERFUL,wooderful,1,NULL
+424,ETOZ,etoz,1,NULL
+425,Beanie Boos,beanie-boos,1,NULL
+426,NICI,nici,1,NULL
+427,Kidztime,kidztime,1,NULL
+428,EAGLE CREEK,eagle-creek,1,NULL
+429,Pacsafe,pacsafe,1,NULL
+430,SWATCH,swatch,1,NULL
+431,DANIEL WELLINGTON,daniel-wellington,1,NULL
+432,LANEIGE,laneige,1,NULL
+433,KLORANE,klorane,1,NULL
+434,NINTENDO,nintendo,1,NULL
+435,HUAWEI,huawei,1,NULL
+436,AVENE,avene,1,NULL
+437,THE BODY SHOP,the-body-shop,1,NULL
+438,FRESH,fresh,1,NULL
+439,KOSE,kose,1,NULL
+440,SK-II,sk-ii,1,NULL
+441,HERA,hera,1,NULL
+442,GARMIN FORERUNNER,garmin-forerunner,1,NULL
+443,LI-ZEY,li-zey,1,NULL
+444,VALRHONA,valrhona,1,NULL
+445,HARIBO,haribo,1,NULL
+446,LOC MARIA,loc-maria,1,NULL
+447,SWISS DELICE,swiss-delice,1,NULL
+448,RISIS,risis,1,NULL
+449,TWG Tea,twg-tea,1,NULL
+450,KÃ„GI,kgi,1,NULL
+451,ANTHONBERG,anthonberg,1,NULL
+452,RITTER SPORT,ritter-sport,1,NULL
+453,IRVINS SALTED EGG,irvins-salted-egg,1,NULL
+454,FLIK FLAK,flik-flak,1,NULL
+455,CRAYOLA,crayola,1,NULL
+456,HYLAND'S,hylands,1,NULL
+457,SANDISK,sandisk,1,NULL
+458,VICTORINOX,victorinox,1,NULL
+459,SKROSS,skross,1,NULL
+460,Fjallraven Kanken ,fjallraven-kanken,1,NULL
+461,TRAVEL BLUE,travel-blue,1,NULL
+462,MOLESKINE,moleskine,1,NULL
+463,JIM BEAM,jim-beam,1,NULL
+464,JACK DANIELS,jack-daniels,1,NULL
+465,WOODFORD RESERVE,woodford-reserve,1,NULL
+466,HOEGAARGEN,hoegaargen,1,NULL
+467,HEINEKEN,heineken,1,NULL
+468,MIDO,mido,1,NULL
+469,SAITO JUNMAI,saito-junmai,1,NULL
+470,PENFOLDS,penfolds,1,NULL
+471,YALUMBA,yalumba,1,NULL
+472,PATRON,patron,1,NULL
+473,GREY GOOSE,grey-goose,1,NULL
+474,TITOS,titos,1,NULL
+475,BUSHMILLS,bushmills,1,NULL
+476,MOET & CHANDON,moet-chandon,1,NULL
+477,MAKE UP FOR EVER,make-up-for-ever,1,NULL
+478,ESTÃ‰E LAUDER,este-lauder,1,NULL
+479,BANANA BOAT,banana-boat,1,NULL
+480,LA ROCHE-POSAY,la-roche-posay,1,NULL
+481,Caudalie,caudalie,1,NULL
+482,ALBERT BICHOT,albert-bichot,1,NULL
+483, LANCÃ”ME,lancme,1,NULL
+484,Uriage,uriage,1,NULL
+485,A-DERMA,a-derma,1,NULL
+486,BIODERMA,bioderma,1,NULL
+487,Chateau Villa Bel Air,chateau-villa-bel-air,1,NULL
+488,AVENE,avene,1,NULL
+489,INNISFREE,innisfree,1,NULL
+490,GlamGlow,glamglow,1,NULL
+491,Holika Holika,holika-holika,1,NULL
+492,Caudalie Beauty,caudalie-beauty,1,NULL
+493,TONYMOLY,tonymoly,1,NULL
+494,ANESSA,anessa,1,NULL
+495,AUDIO-TECHNICA,audio-technica,1,NULL
+496,AFTERSHOKZ,aftershokz,1,NULL
+497,JayBird,jaybird,1,NULL
+498,UE,ue,1,NULL
+499,TRANSCEND,transcend,1,NULL
+500,NAKAMICHI,nakamichi,1,NULL
+501,POLAROID,polaroid,1,NULL
+502,MCGEAR,mcgear,1,NULL
+503,Steiner Optics,steiner-optics,1,NULL
+504,LAC Taut,lac-taut,1,NULL
+505,Jenny Bakery,jenny-bakery,1,NULL
+506,CHARLES & KEITH,charles-keith,1,NULL
+507,ADONIT,adonit,1,NULL
+508,UBTECH,ubtech,1,NULL
+509, RITTER SPORT,ritter-sport,1,NULL
+510,IPHONE,iphone,1,NULL
+511,CORNELL,cornell,1,NULL
+512,GARMIN,garmin,1,NULL
+513,ECOVAC,ecovac,1,NULL
+514,CHIVAS,chivas,1,NULL
+515,STEINER,steiner,1,NULL
+516,VICTORIA'S SECRET,victorias-secret,1,NULL
+517,CRAYOLA ,crayola,1,NULL
+518, CHARLES & KEITH,charles-keith,1,NULL
+519,Burberry,burberry,1,NULL
+520,Aberfeldy,aberfeldy,1,NULL
+521,APM Monaco,apm-monaco,1,NULL
+522,Anne Klein,anne-klein,1,NULL
+523,Anna Sui,anna-sui,1,NULL
+524,ALLSAINTS,allsaints,1,NULL
+525,Benefit Cosmetics,benefit-cosmetics,1,NULL
+526,Bally,bally,1,NULL
+527,Clarisonic,clarisonic,1,NULL
+528,Wah Tai Hing,wah-tai-hing,1,NULL
+529,Veuve Clicquot,veuve-clicquot,1,NULL
+530,Wine Spots Wines,wine-spots-wines,1,NULL
+531,Wolf Blass,wolf-blass,1,NULL
+532,Tom Ford,tom-ford,1,NULL
+533,Tommasi,tommasi,1,NULL
+534,Tignanello,tignanello,1,NULL
+535,The Macallan,the-macallan,1,NULL
+536,The Balvenie,the-balvenie,1,NULL
+537,The Body Shop,the-body-shop,1,NULL
+538,The Glenlivet,the-glenlivet,1,NULL
+539,Shu Uemura,shu-uemura,1,NULL
+540,Dior,dior,1,NULL
+541,Bordeaux,bordeaux,1,NULL
+542,Filorga,filorga,1,NULL
+543,EstÃ©e Lauder,este-lauder,1,NULL
+544,Armani,armani,1,NULL
+545,Gianni Versace,gianni-versace,1,NULL
+546,Gucci for Men,gucci-for-men,1,NULL
+547,Hamilton,hamilton,1,NULL
+548,ClÃ© de Peau BeautÃ©,cl-de-peau-beaut,1,NULL
+549,Bottega Wine,bottega-wine,1,NULL
+550,Bordeaux 1855 Classified,bordeaux-1855-classified,1,NULL
+551,Bordeaux Pomerol,bordeaux-pomerol,1,NULL
+552,Bottega Wine,bottega-wine,1,NULL
+553,Chateau Pichon Baron,chateau-pichon-baron,1,NULL
+554,Chateau Margaux,chateau-margaux,1,NULL
+555,Cos D Estournel,cos-d-estournel,1,NULL
+556,Cle de Peau Beaute,cle-de-peau-beaute,1,NULL
+557,Cloudy Bay,cloudy-bay,1,NULL
+558,Craggy Range,craggy-range,1,NULL
+559,DFS Selects: Burgundy,dfs-selects-burgundy,1,NULL
+560,Emporio Armani,emporio-armani,1,NULL
+561,Fontanafredda,fontanafredda,1,NULL
+562,Giorgio Armani,giorgio-armani,1,NULL
+563,Gaja,gaja,1,NULL
+564,Helena Rubinstein,helena-rubinstein,1,NULL
+565,History of Whoo,history-of-whoo,1,NULL
+566,Jurlique,jurlique,1,NULL
+567,Silverado Vineyards,silverado-vineyards,1,NULL
+568,Remy Martin,remy-martin,1,NULL
+569,Rituals,rituals,1,NULL
+570,Robert Mondavi Winery,robert-mondavi-winery,1,NULL
+571,Ridge Vineyards,ridge-vineyards,1,NULL
+572,ReFa,refa,1,NULL
+573,Piper-Heidsieck,piper-heidsieck,1,NULL
+574,Prada Linea Rossa,prada-linea-rossa,1,NULL
+575,Petrus,petrus,1,NULL
+576,Perricone MD,perricone-md,1,NULL
+577,Michael Kors Watches & Fragrance,michael-kors-watches-fragrance,1,NULL
+578,Maximâ€™s,maxims,1,NULL
+579,Marc Jacobs fragrances,marc-jacobs-fragrances,1,NULL
+580,LOUIS XIII,louis-xiii,1,NULL
+581,Laphroaig,laphroaig,1,NULL
+582,LOccitane,loccitane,1,NULL
+583,Kee Wah,kee-wah,1,NULL
+584,DFS Selects: Bordeaux,dfs-selects-bordeaux,1,NULL
